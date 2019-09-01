@@ -3,6 +3,8 @@
 https://github.com/bitpay/bitcore
 
 ```
+// https://github.com/bitpay/bitcore/tree/master/packages
+
 ```
 
 ```sh
